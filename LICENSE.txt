@@ -1,0 +1,16 @@
+Buzzle’s Hive Free Plugin License
+Copyright (c) 2026 Buzzle’s Hive
+
+Permission is granted to use this plugin for personal and commercial Minecraft servers.
+
+However:
+
+1. You may NOT redistribute this plugin.
+2. You may NOT resell this plugin.
+3. You may NOT claim this plugin as your own.
+4. You may NOT modify and redistribute this plugin without written permission.
+5. You must keep all original credits intact.
+
+This software is provided "as is" without warranty.
+
+Created by Buzzle’s Hive.
